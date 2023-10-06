@@ -22,5 +22,6 @@ vehicleList.add(truck);
 vehicleList.add(flyingCar);
 
 VehicleApp.printListOfVehicleNames();
+
     }
 }

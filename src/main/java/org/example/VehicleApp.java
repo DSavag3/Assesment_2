@@ -8,5 +8,20 @@ public class VehicleApp {
         System.out.println();
     }
 
+    public static void printListOfFlyableObjects(List<Flyable>){
+        System.out.println();
+    }
+
+    public static void sortAndPrintDriveableVehiclesBySpeed(List<Driveable>){
+        System.out.println();
+    }
+
+public static void printPassengerNumbersOnly(){
+
 }
 }
+
+
+
+
+
