@@ -14,6 +14,13 @@ Truck truck = new Truck("Ford F-150");
 Drone drone = new Drone("VTOL");
 FlyingCar flyingCar = new FlyingCar("Fly");
 
+List<Vehicle> vehicleList = new ArrayList<>();
+vehicleList.add(plane);
+vehicleList.add(boat);
+vehicleList.add(car);
+vehicleList.add(truck);
+vehicleList.add(flyingCar);
 
+VehicleApp.printListOfVehicleNames();
     }
 }
